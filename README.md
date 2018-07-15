@@ -4,31 +4,32 @@ Download and copy themes to this directory: `~/Library/Developer/Xcode/UserData/
 ## Themes
 Light:
 
+- [Atlas](#atlas)
 - [Spaceship](#spaceship)
 
 Dark:
 
 
 ### Atlas
-![](Screenshots/Atlas.png)
+![](screenshots/Atlas.png)
 
 ### Frost Byte
-![](Screenshots/Frost Byte.png)
+![](screenshots/Frost Byte.png)
 
 ### Lotus
-![](Screenshots/Lotus.png)
+![](screenshots/Lotus.png)
 
 ### Low Tune
-![](Screenshots/Low Tune.png)
+![](screenshots/Low Tune.png)
 
 ### Nightcall
-![](Screenshots/Nightcall.png)
+![](screenshots/Nightcall.png)
 
 ### Sepia
-![](Screenshots/Sepia.png)
+![](screenshots/Sepia.png)
 
 ### Spaceship
-![](Screenshots/Spaceship.png)
+![](screenshots/Spaceship.png)
 
 ### Meta
 - Used font - `Source Code Pro`
