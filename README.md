@@ -3,37 +3,48 @@ Download and copy themes to this directory: `~/Library/Developer/Xcode/UserData/
 
 ## Themes
 Light:
-
-- [Atlas](#atlas)
-- [Frost Byte](#frost-byte)
-- [Lotus](#lotus)
-- [Low Tune](#low-tune)
+- [Bright](#bright)
+- [Fresh Breathe](#fresh-breathe)
+- [Morning Fog](#morning-fog)
+- [Paper Pastel](#paper-pastel)
+- [Sensenati](#sensenati)
+- [Silver](#silver)
 
 Dark:
-- [Nightcall](#nightcall)
-- [Sepia](#sepia)
-- [Spaceship](#spaceship)
+- [Darcula](#darcula)
+- [Gruvbox](#gruvbox)
+- [Horizon](#horizon)
+- [Neon](#neon)
 
-### Atlas
-![](screenshots/Atlas.png)
+### Bright
+![](screenshots/Bright.png)
 
-### Frost Byte
-![](screenshots/Frost-Byte.png)
+### Fresh Breathe
+![](screenshots/Fresh_Breathe.png)
 
-### Lotus
-![](screenshots/Lotus.png)
+### Morning Fog
+![](screenshots/Morning_Fog.png)
 
-### Low Tune
-![](screenshots/Low-Tune.png)
+### Paper Pastel
+![](screenshots/Paper_Pastel.png)
 
-### Nightcall
-![](screenshots/Nightcall.png)
+### Sensenati
+![](screenshots/Sensenati.png)
 
-### Sepia
-![](screenshots/Sepia.png)
+### Silver
+![](screenshots/Silver.png)
 
-### Spaceship
-![](screenshots/Spaceship.png)
+### Darcula
+![](screenshots/Darcula.png)
+
+### Gruvbox
+![](screenshots/Gruvbox.png)
+
+### Horizon
+![](screenshots/Horizon.png)
+
+### Neon
+![](screenshots/Neon.png)
 
 ### Meta
-- Used font - `Source Code Pro`
+- Font - `Roboto Mono`
